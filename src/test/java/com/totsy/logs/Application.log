@@ -1,0 +1,612 @@
+29/03/2013 10:42:42 devpinoyLogger Hello
+29/03/2013 10:42:42 devpinoyLogger Properties loaded. Starting testing
+29/03/2013 10:42:42 devpinoyLogger Intialize Suite xlsx
+29/03/2013 10:42:43 devpinoyLogger Check out -- Y
+29/03/2013 10:42:43 devpinoyLogger ******Executing the Suite******Check out
+29/03/2013 10:42:43 devpinoyLogger ShoppingCart -- Y
+29/03/2013 10:42:43 devpinoyLogger Executing the test case -> ShoppingCart
+29/03/2013 10:42:43 devpinoyLogger Iteration number 1
+29/03/2013 10:42:43 devpinoyLogger openBrowser
+29/03/2013 10:42:43 devpinoyLogger Opening browser
+29/03/2013 10:43:12 devpinoyLogger PASS
+29/03/2013 10:43:12 devpinoyLogger navigate
+29/03/2013 10:43:12 devpinoyLogger Navigating to URL
+29/03/2013 10:43:18 devpinoyLogger PASS
+29/03/2013 10:43:18 devpinoyLogger writeInInputCss
+29/03/2013 10:43:18 devpinoyLogger Writing in text box
+29/03/2013 10:43:18 devpinoyLogger PASS
+29/03/2013 10:43:18 devpinoyLogger writeInInputCss
+29/03/2013 10:43:18 devpinoyLogger Writing in text box
+29/03/2013 10:43:18 devpinoyLogger PASS
+29/03/2013 10:43:18 devpinoyLogger clickButtonCss
+29/03/2013 10:43:18 devpinoyLogger Clicking on Button
+29/03/2013 10:43:18 devpinoyLogger PASS
+29/03/2013 10:43:18 devpinoyLogger selectRandomEvent
+29/03/2013 10:43:18 devpinoyLogger Selecting Random event
+29/03/2013 10:43:22 devpinoyLogger PASS
+29/03/2013 10:43:22 devpinoyLogger selectRandomProduct
+29/03/2013 10:43:22 devpinoyLogger Selecting Random Product
+29/03/2013 10:43:26 devpinoyLogger PASS
+29/03/2013 10:43:26 devpinoyLogger selectRandomSize
+29/03/2013 10:43:26 devpinoyLogger Selecting Random Size
+29/03/2013 10:43:46 devpinoyLogger FAIL - Could not select from list. Unable to locate element: {"method":"xpath","selector":"//*[@id='attribute169']"}
+Command duration or timeout: 20.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: cf6443db-8e77-4b47-821b-a1afac236b9b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:43:46 devpinoyLogger clearInputText
+29/03/2013 10:43:46 devpinoyLogger Clearing input text box
+29/03/2013 10:43:46 devpinoyLogger FAIL Unable to clear input text Cannot find elements when the XPath expression is null.
+29/03/2013 10:43:46 devpinoyLogger writeInInput
+29/03/2013 10:43:46 devpinoyLogger Writing in text box
+29/03/2013 10:43:46 devpinoyLogger FAIL Unable to write Cannot find elements when the XPath expression is null.
+29/03/2013 10:43:46 devpinoyLogger clickButton
+29/03/2013 10:43:46 devpinoyLogger Clicking on Button
+29/03/2013 10:43:46 devpinoyLogger PASS
+29/03/2013 10:43:46 devpinoyLogger clickButton
+29/03/2013 10:43:46 devpinoyLogger Clicking on Button
+29/03/2013 10:44:06 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='items-info-wrapper']/div[2]/div[2]/a"}
+Command duration or timeout: 20.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: cf6443db-8e77-4b47-821b-a1afac236b9b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:44:06 devpinoyLogger pause
+29/03/2013 10:44:16 devpinoyLogger PASS
+29/03/2013 10:44:16 devpinoyLogger closeBrowser
+29/03/2013 10:44:16 devpinoyLogger Closing the browser
+29/03/2013 10:44:16 devpinoyLogger PASS
+29/03/2013 10:44:21 devpinoyLogger Iteration number 2
+29/03/2013 10:44:23 devpinoyLogger Iteration number 3
+29/03/2013 10:44:24 devpinoyLogger Iteration number 4
+29/03/2013 10:44:25 devpinoyLogger Iteration number 5
+29/03/2013 10:44:26 devpinoyLogger Iteration number 6
+29/03/2013 10:44:28 devpinoyLogger Iteration number 7
+29/03/2013 10:44:28 devpinoyLogger Iteration number 8
+29/03/2013 10:44:29 devpinoyLogger Iteration number 9
+29/03/2013 10:44:30 devpinoyLogger Iteration number 10
+29/03/2013 10:44:31 devpinoyLogger RemoveItem -- Y
+29/03/2013 10:44:31 devpinoyLogger Executing the test case -> RemoveItem
+29/03/2013 10:44:31 devpinoyLogger Iteration number 1
+29/03/2013 10:44:31 devpinoyLogger openBrowser
+29/03/2013 10:44:31 devpinoyLogger Opening browser
+29/03/2013 10:44:33 devpinoyLogger PASS
+29/03/2013 10:44:33 devpinoyLogger navigate
+29/03/2013 10:44:33 devpinoyLogger Navigating to URL
+29/03/2013 10:44:39 devpinoyLogger PASS
+29/03/2013 10:44:39 devpinoyLogger writeInInputCss
+29/03/2013 10:44:39 devpinoyLogger Writing in text box
+29/03/2013 10:44:39 devpinoyLogger PASS
+29/03/2013 10:44:39 devpinoyLogger writeInInputCss
+29/03/2013 10:44:39 devpinoyLogger Writing in text box
+29/03/2013 10:44:39 devpinoyLogger PASS
+29/03/2013 10:44:39 devpinoyLogger clickButtonCss
+29/03/2013 10:44:39 devpinoyLogger Clicking on Button
+29/03/2013 10:44:39 devpinoyLogger PASS
+29/03/2013 10:44:39 devpinoyLogger selectRandomEvent
+29/03/2013 10:44:39 devpinoyLogger Selecting Random event
+29/03/2013 10:44:45 devpinoyLogger PASS
+29/03/2013 10:44:45 devpinoyLogger selectRandomProduct
+29/03/2013 10:44:45 devpinoyLogger Selecting Random Product
+29/03/2013 10:44:45 devpinoyLogger PASS
+29/03/2013 10:44:45 devpinoyLogger selectRandomSize
+29/03/2013 10:44:45 devpinoyLogger Selecting Random Size
+29/03/2013 10:45:05 devpinoyLogger FAIL - Could not select from list. Unable to locate element: {"method":"xpath","selector":"//*[@id='attribute169']"}
+Command duration or timeout: 20.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: d8b47cf5-b7f3-f44f-89ab-8bca7b120542
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:45:05 devpinoyLogger clearInputText_css
+29/03/2013 10:45:05 devpinoyLogger Clearing input text box
+29/03/2013 10:45:25 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"css selector","selector":"#qty"}
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: d8b47cf5-b7f3-f44f-89ab-8bca7b120542
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:45:25 devpinoyLogger writeInInputCss
+29/03/2013 10:45:25 devpinoyLogger Writing in text box
+29/03/2013 10:45:45 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"css selector","selector":"#qty"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: d8b47cf5-b7f3-f44f-89ab-8bca7b120542
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:45:45 devpinoyLogger clickButton
+29/03/2013 10:45:45 devpinoyLogger Clicking on Button
+29/03/2013 10:45:45 devpinoyLogger PASS
+29/03/2013 10:45:45 devpinoyLogger clickButton
+29/03/2013 10:45:45 devpinoyLogger Clicking on Button
+29/03/2013 10:46:05 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='items-info-wrapper']/div[2]/div[2]/a"}
+Command duration or timeout: 20.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: d8b47cf5-b7f3-f44f-89ab-8bca7b120542
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:46:05 devpinoyLogger clickCss
+29/03/2013 10:46:05 devpinoyLogger Clicking on any element
+29/03/2013 10:46:25 devpinoyLogger FAIL Not able to click
+29/03/2013 10:46:25 devpinoyLogger pause
+29/03/2013 10:46:35 devpinoyLogger PASS
+29/03/2013 10:46:35 devpinoyLogger closeBrowser
+29/03/2013 10:46:35 devpinoyLogger Closing the browser
+29/03/2013 10:46:35 devpinoyLogger PASS
+29/03/2013 10:46:38 devpinoyLogger Iteration number 2
+29/03/2013 10:46:40 devpinoyLogger Iteration number 3
+29/03/2013 10:46:41 devpinoyLogger Iteration number 4
+29/03/2013 10:46:42 devpinoyLogger Iteration number 5
+29/03/2013 10:46:43 devpinoyLogger Iteration number 6
+29/03/2013 10:46:44 devpinoyLogger Iteration number 7
+29/03/2013 10:46:45 devpinoyLogger Iteration number 8
+29/03/2013 10:46:45 devpinoyLogger Iteration number 9
+29/03/2013 10:46:46 devpinoyLogger Iteration number 10
+29/03/2013 10:46:47 devpinoyLogger CartQTY -- Y
+29/03/2013 10:46:47 devpinoyLogger Executing the test case -> CartQTY
+29/03/2013 10:46:47 devpinoyLogger Iteration number 1
+29/03/2013 10:46:51 devpinoyLogger Iteration number 2
+29/03/2013 10:46:51 devpinoyLogger openBrowser
+29/03/2013 10:46:51 devpinoyLogger Opening browser
+29/03/2013 10:46:52 devpinoyLogger PASS
+29/03/2013 10:46:52 devpinoyLogger navigate
+29/03/2013 10:46:52 devpinoyLogger Navigating to URL
+29/03/2013 10:46:54 devpinoyLogger PASS
+29/03/2013 10:46:54 devpinoyLogger writeInInputCss
+29/03/2013 10:46:54 devpinoyLogger Writing in text box
+29/03/2013 10:46:54 devpinoyLogger PASS
+29/03/2013 10:46:54 devpinoyLogger writeInInputCss
+29/03/2013 10:46:54 devpinoyLogger Writing in text box
+29/03/2013 10:46:54 devpinoyLogger PASS
+29/03/2013 10:46:54 devpinoyLogger clickButtonCss
+29/03/2013 10:46:54 devpinoyLogger Clicking on Button
+29/03/2013 10:46:54 devpinoyLogger PASS
+29/03/2013 10:46:54 devpinoyLogger selectRandomEvent
+29/03/2013 10:46:54 devpinoyLogger Selecting Random event
+29/03/2013 10:46:59 devpinoyLogger PASS
+29/03/2013 10:46:59 devpinoyLogger selectRandomProduct
+29/03/2013 10:46:59 devpinoyLogger Selecting Random Product
+29/03/2013 10:47:03 devpinoyLogger PASS
+29/03/2013 10:47:03 devpinoyLogger selectRandomSize
+29/03/2013 10:47:03 devpinoyLogger Selecting Random Size
+29/03/2013 10:47:03 devpinoyLogger PASS
+29/03/2013 10:47:03 devpinoyLogger clearInputText_css
+29/03/2013 10:47:03 devpinoyLogger Clearing input text box
+29/03/2013 10:47:03 devpinoyLogger PASS
+29/03/2013 10:47:03 devpinoyLogger writeInInputCss
+29/03/2013 10:47:03 devpinoyLogger Writing in text box
+29/03/2013 10:47:03 devpinoyLogger PASS
+29/03/2013 10:47:03 devpinoyLogger clickButton
+29/03/2013 10:47:03 devpinoyLogger Clicking on Button
+29/03/2013 10:47:04 devpinoyLogger PASS
+29/03/2013 10:47:04 devpinoyLogger clickButton
+29/03/2013 10:47:04 devpinoyLogger Clicking on Button
+29/03/2013 10:47:24 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='items-info-wrapper']/div[2]/div[2]/a"}
+Command duration or timeout: 20.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 3ae13852-5536-b845-8e19-abd2129ad13d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:47:24 devpinoyLogger clearInputText_css
+29/03/2013 10:47:24 devpinoyLogger Clearing input text box
+29/03/2013 10:47:24 devpinoyLogger PASS
+29/03/2013 10:47:24 devpinoyLogger writeInInputCss
+29/03/2013 10:47:24 devpinoyLogger Writing in text box
+29/03/2013 10:47:24 devpinoyLogger PASS
+29/03/2013 10:47:24 devpinoyLogger clickButtonCss
+29/03/2013 10:47:24 devpinoyLogger Clicking on Button
+29/03/2013 10:47:44 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"css selector","selector":".pull-right.btn.button"}
+Command duration or timeout: 20.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 3ae13852-5536-b845-8e19-abd2129ad13d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:47:44 devpinoyLogger pause
+29/03/2013 10:47:47 devpinoyLogger PASS
+29/03/2013 10:47:47 devpinoyLogger closeBrowser
+29/03/2013 10:47:47 devpinoyLogger Closing the browser
+29/03/2013 10:47:47 devpinoyLogger PASS
+29/03/2013 10:47:49 devpinoyLogger Iteration number 3
+29/03/2013 10:47:50 devpinoyLogger Iteration number 4
+29/03/2013 10:47:51 devpinoyLogger Iteration number 5
+29/03/2013 10:47:52 devpinoyLogger Iteration number 6
+29/03/2013 10:47:53 devpinoyLogger Iteration number 7
+29/03/2013 10:47:54 devpinoyLogger Iteration number 8
+29/03/2013 10:47:55 devpinoyLogger Iteration number 9
+29/03/2013 10:47:56 devpinoyLogger Coupon -- Y
+29/03/2013 10:47:56 devpinoyLogger Executing the test case -> Coupon
+29/03/2013 10:47:56 devpinoyLogger Iteration number 1
+29/03/2013 10:47:59 devpinoyLogger Iteration number 2
+29/03/2013 10:48:00 devpinoyLogger Iteration number 3
+29/03/2013 10:48:01 devpinoyLogger Iteration number 4
+29/03/2013 10:48:02 devpinoyLogger Iteration number 5
+29/03/2013 10:48:02 devpinoyLogger openBrowser
+29/03/2013 10:48:02 devpinoyLogger Opening browser
+29/03/2013 10:48:04 devpinoyLogger PASS
+29/03/2013 10:48:04 devpinoyLogger navigate
+29/03/2013 10:48:04 devpinoyLogger Navigating to URL
+29/03/2013 10:48:06 devpinoyLogger PASS
+29/03/2013 10:48:06 devpinoyLogger writeInInputCss
+29/03/2013 10:48:06 devpinoyLogger Writing in text box
+29/03/2013 10:48:06 devpinoyLogger PASS
+29/03/2013 10:48:06 devpinoyLogger writeInInputCss
+29/03/2013 10:48:06 devpinoyLogger Writing in text box
+29/03/2013 10:48:06 devpinoyLogger PASS
+29/03/2013 10:48:06 devpinoyLogger clickButtonCss
+29/03/2013 10:48:06 devpinoyLogger Clicking on Button
+29/03/2013 10:48:06 devpinoyLogger PASS
+29/03/2013 10:48:06 devpinoyLogger selectRandomEvent
+29/03/2013 10:48:06 devpinoyLogger Selecting Random event
+29/03/2013 10:48:12 devpinoyLogger PASS
+29/03/2013 10:48:12 devpinoyLogger selectRandomProduct
+29/03/2013 10:48:12 devpinoyLogger Selecting Random Product
+29/03/2013 10:48:17 devpinoyLogger PASS
+29/03/2013 10:48:17 devpinoyLogger selectRandomSize
+29/03/2013 10:48:17 devpinoyLogger Selecting Random Size
+29/03/2013 10:48:18 devpinoyLogger PASS
+29/03/2013 10:48:18 devpinoyLogger clearInputText_css
+29/03/2013 10:48:18 devpinoyLogger Clearing input text box
+29/03/2013 10:48:18 devpinoyLogger PASS
+29/03/2013 10:48:18 devpinoyLogger writeInInputCss
+29/03/2013 10:48:18 devpinoyLogger Writing in text box
+29/03/2013 10:48:18 devpinoyLogger PASS
+29/03/2013 10:48:18 devpinoyLogger clickButton
+29/03/2013 10:48:18 devpinoyLogger Clicking on Button
+29/03/2013 10:48:18 devpinoyLogger PASS
+29/03/2013 10:48:18 devpinoyLogger clickButton
+29/03/2013 10:48:18 devpinoyLogger Clicking on Button
+29/03/2013 10:48:38 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='items-info-wrapper']/div[2]/div[2]/a"}
+Command duration or timeout: 20.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 1c888bff-47f2-b04b-a89e-2940ea5fcd94
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:48:38 devpinoyLogger writeInInputCss
+29/03/2013 10:48:38 devpinoyLogger Writing in text box
+29/03/2013 10:48:58 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"css selector","selector":"#coupon_code"}
+Command duration or timeout: 20.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 1c888bff-47f2-b04b-a89e-2940ea5fcd94
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:48:58 devpinoyLogger clickButton
+29/03/2013 10:48:58 devpinoyLogger Clicking on Button
+29/03/2013 10:49:18 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='discount-coupon-form']/fieldset/button[1]"}
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 1c888bff-47f2-b04b-a89e-2940ea5fcd94
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:49:18 devpinoyLogger pause
+29/03/2013 10:49:28 devpinoyLogger PASS
+29/03/2013 10:49:28 devpinoyLogger closeBrowser
+29/03/2013 10:49:28 devpinoyLogger Closing the browser
+29/03/2013 10:49:28 devpinoyLogger PASS
+29/03/2013 10:49:30 devpinoyLogger Iteration number 6
+29/03/2013 10:49:31 devpinoyLogger Iteration number 7
+29/03/2013 10:49:32 devpinoyLogger Iteration number 8
+29/03/2013 10:49:33 devpinoyLogger Iteration number 9
+29/03/2013 10:49:34 devpinoyLogger ContinueShopping -- Y
+29/03/2013 10:49:34 devpinoyLogger Executing the test case -> ContinueShopping
+29/03/2013 10:49:34 devpinoyLogger Iteration number 1
+29/03/2013 10:49:36 devpinoyLogger Iteration number 2
+29/03/2013 10:49:36 devpinoyLogger openBrowser
+29/03/2013 10:49:36 devpinoyLogger Opening browser
+29/03/2013 10:49:38 devpinoyLogger PASS
+29/03/2013 10:49:38 devpinoyLogger navigate
+29/03/2013 10:49:38 devpinoyLogger Navigating to URL
+29/03/2013 10:49:40 devpinoyLogger PASS
+29/03/2013 10:49:40 devpinoyLogger writeInInputCss
+29/03/2013 10:49:40 devpinoyLogger Writing in text box
+29/03/2013 10:49:40 devpinoyLogger PASS
+29/03/2013 10:49:40 devpinoyLogger writeInInputCss
+29/03/2013 10:49:40 devpinoyLogger Writing in text box
+29/03/2013 10:49:40 devpinoyLogger PASS
+29/03/2013 10:49:40 devpinoyLogger clickButtonCss
+29/03/2013 10:49:40 devpinoyLogger Clicking on Button
+29/03/2013 10:49:40 devpinoyLogger PASS
+29/03/2013 10:49:40 devpinoyLogger selectRandomEvent
+29/03/2013 10:49:40 devpinoyLogger Selecting Random event
+29/03/2013 10:49:45 devpinoyLogger PASS
+29/03/2013 10:49:45 devpinoyLogger selectRandomProduct
+29/03/2013 10:49:45 devpinoyLogger Selecting Random Product
+29/03/2013 10:49:48 devpinoyLogger PASS
+29/03/2013 10:49:48 devpinoyLogger selectRandomSize
+29/03/2013 10:49:48 devpinoyLogger Selecting Random Size
+29/03/2013 10:50:08 devpinoyLogger FAIL - Could not select from list. Unable to locate element: {"method":"xpath","selector":"//*[@id='attribute169']"}
+Command duration or timeout: 20.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 5a00f027-522e-b946-991f-0621f9270d58
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:50:08 devpinoyLogger clearInputText_css
+29/03/2013 10:50:08 devpinoyLogger Clearing input text box
+29/03/2013 10:50:08 devpinoyLogger PASS
+29/03/2013 10:50:08 devpinoyLogger writeInInputCss
+29/03/2013 10:50:08 devpinoyLogger Writing in text box
+29/03/2013 10:50:08 devpinoyLogger PASS
+29/03/2013 10:50:08 devpinoyLogger clickButton
+29/03/2013 10:50:08 devpinoyLogger Clicking on Button
+29/03/2013 10:50:08 devpinoyLogger PASS
+29/03/2013 10:50:08 devpinoyLogger clickButton
+29/03/2013 10:50:08 devpinoyLogger Clicking on Button
+29/03/2013 10:50:28 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='items-info-wrapper']/div[2]/div[2]/a"}
+Command duration or timeout: 20.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: 5a00f027-522e-b946-991f-0621f9270d58
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:50:28 devpinoyLogger clickCss
+29/03/2013 10:50:28 devpinoyLogger Clicking on any element
+29/03/2013 10:50:48 devpinoyLogger FAIL Not able to click
+29/03/2013 10:50:48 devpinoyLogger clickCss
+29/03/2013 10:50:48 devpinoyLogger Clicking on any element
+29/03/2013 10:51:08 devpinoyLogger FAIL Not able to click
+29/03/2013 10:51:08 devpinoyLogger pause
+29/03/2013 10:51:11 devpinoyLogger PASS
+29/03/2013 10:51:11 devpinoyLogger closeBrowser
+29/03/2013 10:51:11 devpinoyLogger Closing the browser
+29/03/2013 10:51:11 devpinoyLogger PASS
+29/03/2013 10:51:13 devpinoyLogger Iteration number 3
+29/03/2013 10:51:14 devpinoyLogger Iteration number 4
+29/03/2013 10:51:15 devpinoyLogger Iteration number 5
+29/03/2013 10:51:16 devpinoyLogger Iteration number 6
+29/03/2013 10:51:17 devpinoyLogger Iteration number 7
+29/03/2013 10:51:18 devpinoyLogger Iteration number 8
+29/03/2013 10:51:19 devpinoyLogger Iteration number 9
+29/03/2013 10:51:20 devpinoyLogger ShppingAddress -- Y
+29/03/2013 10:51:20 devpinoyLogger Executing the test case -> ShppingAddress
+29/03/2013 10:51:20 devpinoyLogger Iteration number 1
+29/03/2013 10:51:20 devpinoyLogger openBrowser
+29/03/2013 10:51:20 devpinoyLogger Opening browser
+29/03/2013 10:51:21 devpinoyLogger PASS
+29/03/2013 10:51:21 devpinoyLogger navigate
+29/03/2013 10:51:21 devpinoyLogger Navigating to URL
+29/03/2013 10:51:23 devpinoyLogger PASS
+29/03/2013 10:51:23 devpinoyLogger writeInInputCss
+29/03/2013 10:51:23 devpinoyLogger Writing in text box
+29/03/2013 10:51:23 devpinoyLogger PASS
+29/03/2013 10:51:23 devpinoyLogger writeInInputCss
+29/03/2013 10:51:23 devpinoyLogger Writing in text box
+29/03/2013 10:51:24 devpinoyLogger PASS
+29/03/2013 10:51:24 devpinoyLogger clickButtonCss
+29/03/2013 10:51:24 devpinoyLogger Clicking on Button
+29/03/2013 10:51:24 devpinoyLogger PASS
+29/03/2013 10:51:24 devpinoyLogger selectRandomEvent
+29/03/2013 10:51:24 devpinoyLogger Selecting Random event
+29/03/2013 10:51:29 devpinoyLogger PASS
+29/03/2013 10:51:29 devpinoyLogger selectRandomProduct
+29/03/2013 10:51:29 devpinoyLogger Selecting Random Product
+29/03/2013 10:51:30 devpinoyLogger PASS
+29/03/2013 10:51:30 devpinoyLogger selectRandomSize
+29/03/2013 10:51:30 devpinoyLogger Selecting Random Size
+29/03/2013 10:51:51 devpinoyLogger FAIL - Could not select from list. Unable to locate element: {"method":"xpath","selector":"//*[@id='attribute169']"}
+Command duration or timeout: 20.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:51:51 devpinoyLogger clearInputText_css
+29/03/2013 10:51:51 devpinoyLogger Clearing input text box
+29/03/2013 10:51:51 devpinoyLogger PASS
+29/03/2013 10:51:51 devpinoyLogger writeInInputCss
+29/03/2013 10:51:51 devpinoyLogger Writing in text box
+29/03/2013 10:51:51 devpinoyLogger PASS
+29/03/2013 10:51:51 devpinoyLogger clickButton
+29/03/2013 10:51:51 devpinoyLogger Clicking on Button
+29/03/2013 10:51:51 devpinoyLogger PASS
+29/03/2013 10:51:51 devpinoyLogger clickButton
+29/03/2013 10:51:51 devpinoyLogger Clicking on Button
+29/03/2013 10:52:11 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='items-info-wrapper']/div[2]/div[2]/a"}
+Command duration or timeout: 20.18 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:52:11 devpinoyLogger clickButton
+29/03/2013 10:52:11 devpinoyLogger Clicking on Button
+29/03/2013 10:52:31 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='mainContent']/div[2]/div[1]/div[2]/button"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:52:31 devpinoyLogger pause
+29/03/2013 10:52:36 devpinoyLogger PASS
+29/03/2013 10:52:36 devpinoyLogger clearInputText
+29/03/2013 10:52:36 devpinoyLogger Clearing input text box
+29/03/2013 10:52:56 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:firstname']"}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:52:56 devpinoyLogger writeInInput
+29/03/2013 10:52:56 devpinoyLogger Writing in text box
+29/03/2013 10:53:16 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:firstname']"}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:53:16 devpinoyLogger clearInputText
+29/03/2013 10:53:16 devpinoyLogger Clearing input text box
+29/03/2013 10:53:36 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:lastname']"}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:53:36 devpinoyLogger writeInInput
+29/03/2013 10:53:36 devpinoyLogger Writing in text box
+29/03/2013 10:53:56 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:lastname']"}
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:53:56 devpinoyLogger clearInputText
+29/03/2013 10:53:56 devpinoyLogger Clearing input text box
+29/03/2013 10:54:16 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:telephone']"}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:54:16 devpinoyLogger writeInInput
+29/03/2013 10:54:16 devpinoyLogger Writing in text box
+29/03/2013 10:54:36 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:telephone']"}
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:54:36 devpinoyLogger clearInputText
+29/03/2013 10:54:36 devpinoyLogger Clearing input text box
+29/03/2013 10:54:56 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:street1']"}
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:54:56 devpinoyLogger writeInInput
+29/03/2013 10:54:56 devpinoyLogger Writing in text box
+29/03/2013 10:55:16 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:street1']"}
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:55:16 devpinoyLogger clearInputText
+29/03/2013 10:55:16 devpinoyLogger Clearing input text box
+29/03/2013 10:55:36 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:city']"}
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:55:36 devpinoyLogger writeInInput
+29/03/2013 10:55:36 devpinoyLogger Writing in text box
+29/03/2013 10:55:57 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:city']"}
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:55:57 devpinoyLogger chrodKeys
+29/03/2013 10:55:57 devpinoyLogger Selecting in text box
+29/03/2013 10:56:17 devpinoyLogger FAIL Unable to select Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:region_id']"}
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:56:17 devpinoyLogger clearInputText
+29/03/2013 10:56:17 devpinoyLogger Clearing input text box
+29/03/2013 10:56:37 devpinoyLogger FAIL Unable to clear input text Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:postcode']"}
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:56:37 devpinoyLogger writeInInput
+29/03/2013 10:56:37 devpinoyLogger Writing in text box
+29/03/2013 10:56:57 devpinoyLogger FAIL Unable to write Unable to locate element: {"method":"xpath","selector":"//*[@id='billing:postcode']"}
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:56:57 devpinoyLogger clickButton
+29/03/2013 10:56:57 devpinoyLogger Clicking on Button
+29/03/2013 10:57:17 devpinoyLogger FAIL -- Not able to click on ButtonUnable to locate element: {"method":"xpath","selector":"//*[@id='billing-new-address-form fields alpha']/div[6]/button"}
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.28.0', revision: '18309', time: '2012-12-11 15:53:30'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.3', java.version: '1.7.0_13'
+Session ID: fdbf3401-b2f3-ae4b-8375-b496b4745aac
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=18.0}]
+29/03/2013 10:57:17 devpinoyLogger pause
+29/03/2013 10:57:22 devpinoyLogger PASS
+29/03/2013 10:57:22 devpinoyLogger closeBrowser
+29/03/2013 10:57:22 devpinoyLogger Closing the browser
+29/03/2013 10:57:22 devpinoyLogger PASS
+29/03/2013 10:57:28 devpinoyLogger Iteration number 2
+29/03/2013 10:57:30 devpinoyLogger Iteration number 3
+29/03/2013 10:57:32 devpinoyLogger Iteration number 4
+29/03/2013 10:57:34 devpinoyLogger Iteration number 5
+29/03/2013 10:57:36 devpinoyLogger Iteration number 6
+29/03/2013 10:57:38 devpinoyLogger Iteration number 7
+29/03/2013 10:57:40 devpinoyLogger Iteration number 8
+29/03/2013 10:57:42 devpinoyLogger Iteration number 9
+29/03/2013 10:57:44 devpinoyLogger Iteration number 10
+29/03/2013 10:57:45 devpinoyLogger BillingAddress -- N
+29/03/2013 10:57:45 devpinoyLogger Checkout -- N
+29/03/2013 10:57:45 devpinoyLogger Payment -- N
+29/03/2013 10:57:45 devpinoyLogger EditYourCart -- N
+29/03/2013 10:57:45 devpinoyLogger OrderConfirm -- N
+29/03/2013 10:57:45 devpinoyLogger OrderConfirmEmail -- N
+29/03/2013 10:57:45 devpinoyLogger OrderCancelEmail -- N
+29/03/2013 10:57:45 devpinoyLogger Links verification -- N
+29/03/2013 10:57:45 devpinoyLogger Login functionality -- N
+29/03/2013 10:57:45 devpinoyLogger My Account -- N
+29/03/2013 10:57:45 devpinoyLogger Sales pages -- N
