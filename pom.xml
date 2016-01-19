@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hybrid_driven</groupId>
-  <artifactId>Hybrid_Framework</artifactId>
+  <artifactId>ebay-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
-  <name>Hybrid_Framework</name>
+  <name>Ebay_Projectk</name>
     <url>http://maven.apache.org</url>
     <description>General purpose test automation framework for Java. Based on Concordion and Selenium2</description>
 
